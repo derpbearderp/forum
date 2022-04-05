@@ -1,0 +1,61 @@
+.greenFix {
+    background-color: #B6D7A8;
+
+/*Zorgt ervoor dat het post gedeelte niet een witte achtergrond krijgt. Dit komt omdat het in een div staat.*/
+}
+
+.redFix {
+    background-color: #F4CCCC;
+    text-align: center;
+}
+
+.blueFix {
+    background-color: #A4C2F4;
+    text-align: center;
+}
+
+.events {
+    background: #B6D7A8;
+}
+
+.gebeurtenissen {
+    background: #F4CCCC;
+}
+
+.hulp {
+    background: #A4C2F4;
+}
+
+.image-wrapper {
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+
+
+#events {
+    width: 80px;
+    height: 80px;
+}
+
+#gebeurtenissen {
+    width: 80px;
+    height: 80px;
+}
+
+#hulp {
+    width: 80px;
+    height: 80px;
+}
+
+.border {
+    border: 3px solid black;
+}
+ input {
+     width: 90%;
+     padding: 2% 0%;
+ }
+
+
+
