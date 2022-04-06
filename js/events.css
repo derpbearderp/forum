@@ -1,5 +1,6 @@
 .greenFix {
     background-color: #B6D7A8;
+    text-align: center;
 
 /*Zorgt ervoor dat het post gedeelte niet een witte achtergrond krijgt. Dit komt omdat het in een div staat.*/
 }
